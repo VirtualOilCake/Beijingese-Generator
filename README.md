@@ -9,8 +9,13 @@
 
 获取地址
 -
+相对来说比较正常版：
+
 https://github.com/manoil/Beijingese-Generator/blob/master/Beijingese-Generator.java
 
+非人类版：
+
+https://github.com/manoil/Beijingese-Generator/blob/master/Beijingese-Generator-not-human-langrage-version.java
 
 已有功能
 --

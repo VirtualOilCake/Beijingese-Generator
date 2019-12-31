@@ -10,6 +10,8 @@
 获取地址
 -
 https://github.com/manoil/Beijingese-Generator/blob/master/Beijingese-Generator.java
+
+
 已有功能
 --
 *将所有的字后面加上“儿”字*

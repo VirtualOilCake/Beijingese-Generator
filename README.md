@@ -7,14 +7,21 @@
 
 基于Java
 
-
+获取地址
+-
+https://github.com/manoil/Beijingese-Generator/blob/master/Beijingese-Generator.java
 已有功能
 --
 *将所有的字后面加上“儿”字*
 
 
+*将“你”自动替换成“您”*
+
 
 *在英文字母后面加上"r"*
+
+
+
 
 许可条例
 --
